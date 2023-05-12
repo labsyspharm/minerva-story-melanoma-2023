@@ -35,7 +35,11 @@
           "Pan": [
             0.3721064642409466,
             0.6657622412271402
-          ]
+          ],
+          "Lensing": {
+            "Group": "H&E",
+            "Rad": 150
+          }
         },
         {
           "Name": "1/2 - Immune suppression via myeloid and T cell interactions",
